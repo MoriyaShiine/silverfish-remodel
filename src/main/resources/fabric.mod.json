@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "silverfishremodel",
+  "version": "${version}",
+  "name": "Silverfish Remodel",
+  "description": "Changes the Silverfish model and texture to something cuter",
+  "authors": [
+	"MoriyaShiine",
+	"8onfire"
+  ],
+  "license": "All Rights Reserved",
+  "icon": "assets/silverfishremodel/icon.png",
+  "environment": "client",
+  "entrypoints": {
+	"client": [
+	  "moriyashiine.silverfishremodel.client.SilverfishRemodelClient"
+	]
+  },
+  "depends": {
+	"fabricloader": "*",
+	"minecraft": "~1.20",
+	"java": ">=17",
+	"fabric-api": "*"
+  }
+}
