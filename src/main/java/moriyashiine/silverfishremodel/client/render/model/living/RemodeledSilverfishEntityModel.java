@@ -1,7 +1,9 @@
 /*
+ * Copyright (c) MoriyaShiine. All Rights Reserved.
+ */
+/*
  * All Rights Reserved (c) MoriyaShiine
  */
-
 package moriyashiine.silverfishremodel.client.render.model.living;
 
 import moriyashiine.silverfishremodel.client.SilverfishRemodelClient;
